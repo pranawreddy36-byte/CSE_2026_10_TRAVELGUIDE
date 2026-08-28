@@ -1,0 +1,7 @@
+ID: 2
+Name: Charminar
+Type: Attraction
+City: Hyderabad
+State: Telangana
+Description: Historic monument and famous tourist attraction.
+Keywords: heritage mosque old city architecture

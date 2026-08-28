@@ -1,0 +1,7 @@
+ID: 21
+Name: Bengaluru Palace
+Type: Attraction
+City: Bengaluru
+State: Karnataka
+Description: Historic palace with Tudor-style architecture and gardens.
+Keywords: palace heritage garden history

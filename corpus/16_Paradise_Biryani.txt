@@ -1,0 +1,7 @@
+ID: 16
+Name: Paradise Biryani
+Type: Restaurant
+City: Hyderabad
+State: Telangana
+Description: Popular restaurant serving aromatic Hyderabadi biryani.
+Keywords: restaurant food biryani cuisine

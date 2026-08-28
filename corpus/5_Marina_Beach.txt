@@ -1,0 +1,7 @@
+ID: 5
+Name: Marina Beach
+Type: Attraction
+City: Chennai
+State: Tamil Nadu
+Description: Popular urban beach known for its long shoreline and sunrise.
+Keywords: beach sea sunrise promenade

@@ -1,0 +1,7 @@
+ID: 25
+Name: Kerala Backwater Cruise
+Type: Transport
+City: Alappuzha
+State: Kerala
+Description: Peaceful boat journey through palm-lined backwaters.
+Keywords: boat cruise water nature travel

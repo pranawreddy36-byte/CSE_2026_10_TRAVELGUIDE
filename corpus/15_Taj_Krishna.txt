@@ -1,0 +1,7 @@
+ID: 15
+Name: Taj Krishna
+Type: Hotel
+City: Hyderabad
+State: Telangana
+Description: Premium hotel with dining, conference facilities, and city access.
+Keywords: hotel luxury business dining

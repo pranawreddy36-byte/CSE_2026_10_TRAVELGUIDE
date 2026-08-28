@@ -1,0 +1,7 @@
+ID: 24
+Name: Pink City Guest House
+Type: Hotel
+City: Jaipur
+State: Rajasthan
+Description: Friendly guest house near markets and historic city sights.
+Keywords: hotel guest house budget stay

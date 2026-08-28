@@ -1,0 +1,7 @@
+ID: 12
+Name: Munnar Hills
+Type: Attraction
+City: Munnar
+State: Kerala
+Description: Rolling tea gardens and cool mountain scenery.
+Keywords: tea hills nature trekking

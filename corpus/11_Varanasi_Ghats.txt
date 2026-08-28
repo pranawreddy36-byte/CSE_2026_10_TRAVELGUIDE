@@ -1,0 +1,7 @@
+ID: 11
+Name: Varanasi Ghats
+Type: Attraction
+City: Varanasi
+State: Uttar Pradesh
+Description: Riverside steps known for spiritual ceremonies on the Ganges.
+Keywords: ganges spirituality river ceremony

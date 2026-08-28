@@ -1,0 +1,7 @@
+ID: 23
+Name: Kochi Fort Area
+Type: Attraction
+City: Kochi
+State: Kerala
+Description: Historic waterfront district with art, markets, and Chinese fishing nets.
+Keywords: heritage waterfront art market
