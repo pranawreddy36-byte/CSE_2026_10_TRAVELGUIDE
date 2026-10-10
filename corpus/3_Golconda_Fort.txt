@@ -1,0 +1,7 @@
+ID: 3
+Name: Golconda Fort
+Type: Attraction
+City: Hyderabad
+State: Telangana
+Description: Historic fort known for grand architecture and evening sound shows.
+Keywords: fort history monument heritage

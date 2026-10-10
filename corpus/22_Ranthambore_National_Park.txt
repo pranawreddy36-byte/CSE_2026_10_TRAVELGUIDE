@@ -1,0 +1,7 @@
+ID: 22
+Name: Ranthambore National Park
+Type: Attraction
+City: Sawai Madhopur
+State: Rajasthan
+Description: Wildlife reserve known for tigers, lakes, and safari tours.
+Keywords: wildlife safari tiger nature

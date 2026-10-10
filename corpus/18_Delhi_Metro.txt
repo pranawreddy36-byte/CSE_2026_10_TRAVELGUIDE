@@ -1,0 +1,7 @@
+ID: 18
+Name: Delhi Metro
+Type: Transport
+City: Delhi
+State: Delhi
+Description: Fast city rail network connecting major neighborhoods and landmarks.
+Keywords: metro train rail commute

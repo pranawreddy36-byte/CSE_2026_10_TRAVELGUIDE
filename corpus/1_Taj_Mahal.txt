@@ -1,0 +1,7 @@
+ID: 1
+Name: Taj Mahal
+Type: Attraction
+City: Agra
+State: Uttar Pradesh
+Description: Historic white marble monument and famous tourist attraction.
+Keywords: heritage monument wonder love history

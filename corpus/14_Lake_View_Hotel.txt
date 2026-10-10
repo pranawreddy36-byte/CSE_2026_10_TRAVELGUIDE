@@ -1,0 +1,7 @@
+ID: 14
+Name: Lake View Hotel
+Type: Hotel
+City: Udaipur
+State: Rajasthan
+Description: Comfortable stay overlooking a beautiful city lake.
+Keywords: hotel lake rooms view luxury

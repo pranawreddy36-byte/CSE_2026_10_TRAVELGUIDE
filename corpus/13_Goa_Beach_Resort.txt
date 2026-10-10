@@ -1,0 +1,7 @@
+ID: 13
+Name: Goa Beach Resort
+Type: Hotel
+City: Goa
+State: Goa
+Description: Relaxed resort near sandy beaches with pool and breakfast.
+Keywords: beach resort pool vacation

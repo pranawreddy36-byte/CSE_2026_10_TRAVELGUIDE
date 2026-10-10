@@ -1,0 +1,7 @@
+ID: 7
+Name: India Gate
+Type: Attraction
+City: Delhi
+State: Delhi
+Description: War memorial surrounded by lawns in the heart of the capital.
+Keywords: memorial monument park history

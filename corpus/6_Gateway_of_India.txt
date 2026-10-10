@@ -1,0 +1,7 @@
+ID: 6
+Name: Gateway of India
+Type: Attraction
+City: Mumbai
+State: Maharashtra
+Description: Iconic waterfront arch and starting point for harbor visits.
+Keywords: monument harbor waterfront history

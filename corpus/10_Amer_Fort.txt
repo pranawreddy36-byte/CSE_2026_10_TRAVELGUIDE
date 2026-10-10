@@ -1,0 +1,7 @@
+ID: 10
+Name: Amer Fort
+Type: Attraction
+City: Jaipur
+State: Rajasthan
+Description: Hilltop fort featuring courtyards, halls, and traditional artwork.
+Keywords: fort hill heritage palace

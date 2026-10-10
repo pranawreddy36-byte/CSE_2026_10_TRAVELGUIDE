@@ -1,0 +1,7 @@
+ID: 4
+Name: Hussain Sagar Lake
+Type: Attraction
+City: Hyderabad
+State: Telangana
+Description: Scenic lake with a large Buddha statue and boating.
+Keywords: lake boating necklace road scenic

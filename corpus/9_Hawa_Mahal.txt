@@ -1,0 +1,7 @@
+ID: 9
+Name: Hawa Mahal
+Type: Attraction
+City: Jaipur
+State: Rajasthan
+Description: Historic palace facade with ornate windows in the Pink City.
+Keywords: palace pink city architecture

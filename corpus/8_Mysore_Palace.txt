@@ -1,0 +1,7 @@
+ID: 8
+Name: Mysore Palace
+Type: Attraction
+City: Mysuru
+State: Karnataka
+Description: Grand royal palace famous for illumination and heritage design.
+Keywords: palace royal heritage lights

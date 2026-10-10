@@ -9,6 +9,9 @@ out/
 build/
 dist/
 
+# Java
+*.class
+
 # local env files
 .env*
 !.env.example
