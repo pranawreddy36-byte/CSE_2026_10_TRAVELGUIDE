@@ -1,30 +1,40 @@
-# TourNav – Smart Travel Discovery and Navigation System
+<<<<<<< HEAD
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-**Project Report submitted for the partial fulfilment of grade for the course Data Structures and Algorithms -3 (25CS2103E)**  
-**A.Y.** 2026-2027  
-**Team Number:** 10 | **Section:** 9  
+## Getting Started
 
-**Submitted by:**  
-- P. Pranaw Reddy (2520030136)  
-- Manikanta (2520030239)  
-- Talla Karthik (2520030234)  
+First, run the development server:
 
-**Under the guidance of:**  
-Dr. S. Vinay Kumar (Associate Professor)  
-Department of Computer Science and Engineering  
-KL University, Hyderabad, Telangana, India.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
----
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Abstract
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-**TravelNav** (or **TourNav**) is an advanced travel information search engine designed to help tourists quickly and efficiently access information about tourist attractions, hotels, restaurants, transportation, and travel services. 
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-The system provides a searchable repository where users can enter keywords or queries and receive relevant travel information. Advanced algorithms are integrated to improve the speed, accuracy, and usefulness of the system:
-- **String-matching algorithms** (such as KMP and Rabin-Karp) enable efficient searching.
-- **Fuzzy matching** (using edit distance) helps handle spelling mistakes and incomplete queries.
-- **Dynamic programming** can be used for similarity and recommendation tasks.
-- **Graph and network-flow algorithms** can support transportation and route-related problems.
-- **Approximation and Randomized algorithms** can assist with complex scheduling, planning, and improving computational tasks.
+## Learn More
 
-Overall, this project demonstrates the practical application of advanced algorithms to a real-world tourism problem, providing users with a fast, reliable, intelligent, and user-friendly platform for discovering and planning travel experiences.
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# FWD
+>>>>>>> 8c8b0b00de87f9e29fd8c95582dbf46bd5f5d5f9
