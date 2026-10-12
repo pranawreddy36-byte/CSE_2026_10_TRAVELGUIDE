@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+/* CO3: React Component Model - styling approach uses Tailwind tokens and global CSS variables for reusable UI composition. */
+:root {
+  --background: #fcfaf6;
+  --foreground: #1f1a17;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: "Avenir Next", "Segoe UI", "Helvetica Neue", sans-serif;
+  --font-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--background);
+}
+
+body {
+  background:
+    radial-gradient(circle at top, rgba(244, 208, 143, 0.2), transparent 30%),
+    var(--background);
+  color: var(--foreground);
+}
+
+a {
+  text-decoration: none;
+}
+
+.leaflet-container {
+  font-family: var(--font-sans), sans-serif;
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: transparent;
+  box-shadow: none;
+}
+
+.leaflet-popup-content {
+  margin: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  /* CO5: Routing, Forms, Accessibility & Performance Engineering - reduced-motion media query improves accessibility. */
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
